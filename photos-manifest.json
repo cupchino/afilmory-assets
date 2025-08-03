@@ -1,5 +1,5 @@
 {
-  "version": "v5",
+  "version": "v6",
   "data": [
     {
       "id": "DSCF4306",
@@ -240,6 +240,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/1800",
         "LightValue": 11.5,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Classic Negative",
           "GrainEffectRoughness": "Off",
@@ -329,6 +330,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/170",
         "LightValue": 8.8,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Classic Negative",
           "GrainEffectRoughness": "Off",
@@ -418,6 +420,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/850",
         "LightValue": 11.7,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Classic Negative",
           "GrainEffectRoughness": "Off",
@@ -505,6 +508,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/1700",
         "LightValue": 12.4,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Classic Negative",
           "GrainEffectRoughness": "Off",
@@ -528,326 +532,6 @@
         "contrast": 52,
         "shadowRatio": 0.38,
         "highlightRatio": 0.3
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4124",
-      "title": "DSCF4124",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.688Z",
-      "tags": [
-        "风光",
-        "南京"
-      ],
-      "originalUrl": "https://r2.innei.ren/风光/南京/DSCF4124.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4124.webp",
-      "thumbHash": "19d70d15022e779f9857978867868978c370cbf599",
-      "width": 5152,
-      "height": 7728,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "风光/南京/DSCF4124.HIF",
-      "lastModified": "2025-07-11T15:43:05.258Z",
-      "size": 19252224,
-      "exif": {
-        "ImageWidth": 5152,
-        "ImageHeight": 7728
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 39,
-        "contrast": 43,
-        "shadowRatio": 0.44,
-        "highlightRatio": 0.01
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4086",
-      "title": "DSCF4086",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.679Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4086.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4086.webp",
-      "thumbHash": "15f8090d0239a970798797788a789777aa5cf041a5",
-      "width": 5152,
-      "height": 7728,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "动物/红山森林动物园/DSCF4086.HIF",
-      "lastModified": "2025-07-11T15:42:11.259Z",
-      "size": 17343488,
-      "exif": {
-        "ImageWidth": 5152,
-        "ImageHeight": 7728
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 34,
-        "contrast": 43,
-        "shadowRatio": 0.54,
-        "highlightRatio": 0.09
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4016",
-      "title": "DSCF4016",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.638Z",
-      "tags": [
-        "花",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/花/红山森林动物园/DSCF4016.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4016.webp",
-      "thumbHash": "d4a70505022756ce5706b22a975bc551979f5d06c8",
-      "width": 5152,
-      "height": 7728,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "花/红山森林动物园/DSCF4016.HIF",
-      "lastModified": "2025-07-11T15:42:38.253Z",
-      "size": 15651328,
-      "exif": {
-        "ImageWidth": 5152,
-        "ImageHeight": 7728
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 34,
-        "contrast": 36,
-        "shadowRatio": 0.59,
-        "highlightRatio": 0.07
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4113",
-      "title": "DSCF4113",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.634Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4113.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4113.webp",
-      "thumbHash": "1f080a050065779465a858f77696b9a8b0de11175f",
-      "width": 5152,
-      "height": 7728,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "动物/红山森林动物园/DSCF4113.HIF",
-      "lastModified": "2025-07-11T15:42:11.905Z",
-      "size": 12623360,
-      "exif": {
-        "ImageWidth": 5152,
-        "ImageHeight": 7728
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 50,
-        "contrast": 50,
-        "shadowRatio": 0.28,
-        "highlightRatio": 0.27
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4115",
-      "title": "DSCF4115",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.536Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4115.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4115.webp",
-      "thumbHash": "23080a0580995a997568788d7307a886fc66a69940",
-      "width": 7728,
-      "height": 5152,
-      "aspectRatio": 1.5,
-      "s3Key": "动物/红山森林动物园/DSCF4115.HIF",
-      "lastModified": "2025-07-11T15:42:11.933Z",
-      "size": 12890624,
-      "exif": {
-        "ImageWidth": 7728,
-        "ImageHeight": 5152
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 55,
-        "contrast": 53,
-        "shadowRatio": 0.24,
-        "highlightRatio": 0.38
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4032",
-      "title": "DSCF4032",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.528Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4032.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4032.webp",
-      "thumbHash": "9ee7090d80768f79ab98888566498789f8cd85f85a",
-      "width": 7728,
-      "height": 5152,
-      "aspectRatio": 1.5,
-      "s3Key": "动物/红山森林动物园/DSCF4032.HIF",
-      "lastModified": "2025-07-11T15:42:11.875Z",
-      "size": 13635072,
-      "exif": {
-        "ImageWidth": 7728,
-        "ImageHeight": 5152
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 48,
-        "contrast": 34,
-        "shadowRatio": 0.22,
-        "highlightRatio": 0.17
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4075",
-      "title": "DSCF4075",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.517Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4075.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4075.webp",
-      "thumbHash": "dbf7050d022766a154ea418c778f4676e7773facfa",
-      "width": 5152,
-      "height": 7728,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "动物/红山森林动物园/DSCF4075.HIF",
-      "lastModified": "2025-07-11T15:42:14.012Z",
-      "size": 12796416,
-      "exif": {
-        "ImageWidth": 5152,
-        "ImageHeight": 7728
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 43,
-        "contrast": 38,
-        "shadowRatio": 0.37,
-        "highlightRatio": 0.15
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4072",
-      "title": "DSCF4072",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.477Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4072.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4072.webp",
-      "thumbHash": "dbf7090d021867a075c86a879875a8787a50b60665",
-      "width": 5152,
-      "height": 7728,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "动物/红山森林动物园/DSCF4072.HIF",
-      "lastModified": "2025-07-11T15:42:11.446Z",
-      "size": 13441024,
-      "exif": {
-        "ImageWidth": 5152,
-        "ImageHeight": 7728
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 43,
-        "contrast": 39,
-        "shadowRatio": 0.35,
-        "highlightRatio": 0.16
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4069",
-      "title": "DSCF4069",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.382Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4069.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4069.webp",
-      "thumbHash": "d8e7090d027a937f7857873a86a7878955903b2057",
-      "width": 3648,
-      "height": 5472,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "动物/红山森林动物园/DSCF4069.HIF",
-      "lastModified": "2025-07-11T15:42:13.039Z",
-      "size": 6082560,
-      "exif": {
-        "ImageWidth": 3648,
-        "ImageHeight": 5472
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 38,
-        "contrast": 37,
-        "shadowRatio": 0.44,
-        "highlightRatio": 0.09
-      },
-      "isLivePhoto": false,
-      "isHDR": false
-    },
-    {
-      "id": "DSCF4020",
-      "title": "DSCF4020",
-      "description": "",
-      "dateTaken": "2025-07-11T16:25:40.338Z",
-      "tags": [
-        "动物",
-        "红山森林动物园"
-      ],
-      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4020.HIF",
-      "thumbnailUrl": "/thumbnails/DSCF4020.webp",
-      "thumbHash": "9bd8091502026bb06a9867a885768a67ac6f875099",
-      "width": 2592,
-      "height": 3888,
-      "aspectRatio": 0.6666666666666666,
-      "s3Key": "动物/红山森林动物园/DSCF4020.HIF",
-      "lastModified": "2025-07-11T15:42:13.622Z",
-      "size": 4230144,
-      "exif": {
-        "ImageWidth": 2592,
-        "ImageHeight": 3888
-      },
-      "toneAnalysis": {
-        "toneType": "normal",
-        "brightness": 47,
-        "contrast": 50,
-        "shadowRatio": 0.41,
-        "highlightRatio": 0.26
       },
       "isLivePhoto": false,
       "isHDR": false
@@ -912,6 +596,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/100",
         "LightValue": 4.9,
+        "Rating": 0,
         "GPSAltitude": 12,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 31.972183,
@@ -926,7 +611,297 @@
         "shadowRatio": 0.1,
         "highlightRatio": 0
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4124",
+      "title": "DSCF4124",
+      "description": "",
+      "dateTaken": "2025-06-25T07:47:43.000Z",
+      "tags": [
+        "风光",
+        "南京"
+      ],
+      "originalUrl": "https://r2.innei.ren/风光/南京/DSCF4124.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4124.webp",
+      "thumbHash": "19d70d15022e779f9857978867868978c370cbf599",
+      "width": 5152,
+      "height": 7728,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "风光/南京/DSCF4124.HIF",
+      "lastModified": "2025-07-11T15:43:05.258Z",
+      "size": 19252224,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T15:47:43+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/2200",
+        "FNumber": 4.5,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 500,
+        "ShutterSpeedValue": "1/2304",
+        "ApertureValue": 4.4,
+        "BrightnessValue": 10.01,
+        "ExposureCompensation": "+1",
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "90.9 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "136 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "WhiteBalanceFineTune": "Red -20, Blue +80",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 4.5,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/2200",
+        "LightValue": 13.1,
+        "Rating": 0,
+        "GPSAltitude": 35,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 32.093101,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 118.795964,
+        "GPSLongitudeRef": "E",
+        "FujiRecipe": {
+          "FilmMode": "F2/Fujichrome (Velvia)",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Strong",
+          "WhiteBalance": "Auto",
+          "WhiteBalanceFineTune": "Red -20, Blue +80",
+          "DynamicRange": "Standard",
+          "HighlightTone": "0 (normal)",
+          "ShadowTone": "0 (normal)",
+          "Saturation": "+4 (highest)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 39,
+        "contrast": 43,
+        "shadowRatio": 0.44,
+        "highlightRatio": 0.01
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4115",
+      "title": "DSCF4115",
+      "description": "",
+      "dateTaken": "2025-06-25T07:40:29.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4115.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4115.webp",
+      "thumbHash": "23080a0580995a997568788d7307a886fc66a69940",
+      "width": 7728,
+      "height": 5152,
+      "aspectRatio": 1.5,
+      "s3Key": "动物/红山森林动物园/DSCF4115.HIF",
+      "lastModified": "2025-07-11T15:42:11.933Z",
+      "size": 12890624,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T15:40:29+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/180",
+        "FNumber": 5.6,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 500,
+        "ShutterSpeedValue": "1/193",
+        "ApertureValue": 5.7,
+        "BrightnessValue": 5.06,
+        "ExposureCompensation": -0.33,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "214.4 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "322 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "WhiteBalanceFineTune": "Red +0, Blue +0",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 5.6,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/180",
+        "LightValue": 10.1,
+        "Rating": 0,
+        "GPSAltitude": 35,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 32.093101,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 118.795964,
+        "GPSLongitudeRef": "E",
+        "FujiRecipe": {
+          "FilmMode": "Classic Chrome",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto",
+          "WhiteBalanceFineTune": "Red +0, Blue +0",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DevelopmentDynamicRange": 400,
+          "DynamicRangeSetting": "Manual"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 55,
+        "contrast": 53,
+        "shadowRatio": 0.24,
+        "highlightRatio": 0.38
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4113",
+      "title": "DSCF4113",
+      "description": "",
+      "dateTaken": "2025-06-25T07:38:00.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4113.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4113.webp",
+      "thumbHash": "1f080a050065779465a858f77696b9a8b0de11175f",
+      "width": 5152,
+      "height": 7728,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "动物/红山森林动物园/DSCF4113.HIF",
+      "lastModified": "2025-07-11T15:42:11.905Z",
+      "size": 12623360,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T15:38:00+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/160",
+        "FNumber": 5.6,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 500,
+        "ShutterSpeedValue": "1/165",
+        "ApertureValue": 5.7,
+        "BrightnessValue": 5.52,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "278.4 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "418 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto",
+        "WhiteBalanceFineTune": "Red +0, Blue +0",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 5.6,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/160",
+        "LightValue": 10,
+        "Rating": 0,
+        "GPSAltitude": 35,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 32.093101,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 118.795964,
+        "GPSLongitudeRef": "E",
+        "FujiRecipe": {
+          "FilmMode": "Classic Chrome",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto",
+          "WhiteBalanceFineTune": "Red +0, Blue +0",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DevelopmentDynamicRange": 400,
+          "DynamicRangeSetting": "Manual"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 50,
+        "contrast": 50,
+        "shadowRatio": 0.28,
+        "highlightRatio": 0.27
+      },
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF4116",
@@ -988,6 +963,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/400",
         "LightValue": 10.7,
+        "Rating": 0,
         "GPSAltitude": 35,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.093101,
@@ -1020,7 +996,667 @@
         "shadowRatio": 0.31,
         "highlightRatio": 0.39
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4086",
+      "title": "DSCF4086",
+      "description": "",
+      "dateTaken": "2025-06-25T07:15:43.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4086.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4086.webp",
+      "thumbHash": "15f8090d0239a970798797788a789777aa5cf041a5",
+      "width": 5152,
+      "height": 7728,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "动物/红山森林动物园/DSCF4086.HIF",
+      "lastModified": "2025-07-11T15:42:11.259Z",
+      "size": 17343488,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T15:15:43+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/210",
+        "FNumber": 5,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 500,
+        "ShutterSpeedValue": "1/211",
+        "ApertureValue": 4.9,
+        "BrightnessValue": 5.07,
+        "ExposureCompensation": -0.33,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "184.6 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "277 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto (ambiance priority)",
+        "WhiteBalanceFineTune": "Red -20, Blue +20",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 5,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/210",
+        "LightValue": 10,
+        "Rating": 0,
+        "GPSAltitude": 35,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 32.093101,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 118.795964,
+        "GPSLongitudeRef": "E",
+        "FujiRecipe": {
+          "FilmMode": "Classic Chrome",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto (ambiance priority)",
+          "WhiteBalanceFineTune": "Red -20, Blue +20",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DevelopmentDynamicRange": 400,
+          "DynamicRangeSetting": "Manual"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 34,
+        "contrast": 43,
+        "shadowRatio": 0.54,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4075",
+      "title": "DSCF4075",
+      "description": "",
+      "dateTaken": "2025-06-25T06:31:03.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4075.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4075.webp",
+      "thumbHash": "dbf7050d022766a154ea418c778f4676e7773facfa",
+      "width": 5152,
+      "height": 7728,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "动物/红山森林动物园/DSCF4075.HIF",
+      "lastModified": "2025-07-11T15:42:14.012Z",
+      "size": 12796416,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T14:31:03+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/125",
+        "FNumber": 4,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 500,
+        "ShutterSpeedValue": "1/135",
+        "ApertureValue": 4,
+        "BrightnessValue": 3.67,
+        "ExposureCompensation": -0.33,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "70.0 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "105 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto (ambiance priority)",
+        "WhiteBalanceFineTune": "Red -20, Blue +20",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 4,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/125",
+        "LightValue": 8.6,
+        "Rating": 0,
+        "GPSAltitude": 14,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 32.094626,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 118.795166,
+        "GPSLongitudeRef": "E",
+        "FujiRecipe": {
+          "FilmMode": "Classic Chrome",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto (ambiance priority)",
+          "WhiteBalanceFineTune": "Red -20, Blue +20",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DevelopmentDynamicRange": 400,
+          "DynamicRangeSetting": "Manual"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 38,
+        "shadowRatio": 0.37,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4072",
+      "title": "DSCF4072",
+      "description": "",
+      "dateTaken": "2025-06-25T06:30:10.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4072.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4072.webp",
+      "thumbHash": "dbf7090d021867a075c86a879875a8787a50b60665",
+      "width": 5152,
+      "height": 7728,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "动物/红山森林动物园/DSCF4072.HIF",
+      "lastModified": "2025-07-11T15:42:11.446Z",
+      "size": 13441024,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T14:30:10+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/100",
+        "FNumber": 4.5,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 500,
+        "ShutterSpeedValue": "1/97",
+        "ApertureValue": 4.4,
+        "BrightnessValue": 3.46,
+        "ExposureCompensation": -0.33,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "101.6 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "152 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto (ambiance priority)",
+        "WhiteBalanceFineTune": "Red -20, Blue +20",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 4.5,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/100",
+        "LightValue": 8.7,
+        "Rating": 0,
+        "GPSAltitude": 14,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 32.094626,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 118.795166,
+        "GPSLongitudeRef": "E",
+        "FujiRecipe": {
+          "FilmMode": "Classic Chrome",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto (ambiance priority)",
+          "WhiteBalanceFineTune": "Red -20, Blue +20",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DevelopmentDynamicRange": 400,
+          "DynamicRangeSetting": "Manual"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 39,
+        "shadowRatio": 0.35,
+        "highlightRatio": 0.16
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4069",
+      "title": "DSCF4069",
+      "description": "",
+      "dateTaken": "2025-06-25T06:24:18.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4069.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4069.webp",
+      "thumbHash": "d8e7090d027a937f7857873a86a7878955903b2057",
+      "width": 3648,
+      "height": 5472,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "动物/红山森林动物园/DSCF4069.HIF",
+      "lastModified": "2025-07-11T15:42:13.039Z",
+      "size": 6082560,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T14:24:18+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 5472,
+        "ImageHeight": 3648,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/640",
+        "FNumber": 5,
+        "ExposureProgram": "Aperture-priority AE",
+        "ISO": 500,
+        "ShutterSpeedValue": "1/653",
+        "ApertureValue": 4.9,
+        "BrightnessValue": 6.59,
+        "ExposureCompensation": -0.33,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "206.5 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Auto",
+        "FocalLengthIn35mmFormat": "310 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Multi-segment",
+        "WhiteBalance": "Auto (ambiance priority)",
+        "WhiteBalanceFineTune": "Red -20, Blue +20",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 5,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/640",
+        "LightValue": 11.6,
+        "Rating": 0,
+        "GPSAltitude": 14,
+        "GPSAltitudeRef": "Above Sea Level",
+        "GPSLatitude": 32.094626,
+        "GPSLatitudeRef": "N",
+        "GPSLongitude": 118.795166,
+        "GPSLongitudeRef": "E",
+        "FujiRecipe": {
+          "FilmMode": "Classic Chrome",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto (ambiance priority)",
+          "WhiteBalanceFineTune": "Red -20, Blue +20",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DevelopmentDynamicRange": 400,
+          "DynamicRangeSetting": "Manual"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 37,
+        "shadowRatio": 0.44,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4032",
+      "title": "DSCF4032",
+      "description": "",
+      "dateTaken": "2025-06-25T05:35:20.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4032.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4032.webp",
+      "thumbHash": "9ee7090d80768f79ab98888566498789f8cd85f85a",
+      "width": 7728,
+      "height": 5152,
+      "aspectRatio": 1.5,
+      "s3Key": "动物/红山森林动物园/DSCF4032.HIF",
+      "lastModified": "2025-07-11T15:42:11.875Z",
+      "size": 13635072,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T13:35:20+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 1,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/250",
+        "FNumber": 5.6,
+        "ExposureProgram": "Manual",
+        "ISO": 3200,
+        "ShutterSpeedValue": "1/256",
+        "ApertureValue": 5.7,
+        "BrightnessValue": 3.52,
+        "ExposureCompensation": 0,
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "258.4 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Manual",
+        "FocalLengthIn35mmFormat": "388 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto (ambiance priority)",
+        "WhiteBalanceFineTune": "Red -20, Blue +20",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 5.6,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/250",
+        "LightValue": 7.9,
+        "Rating": 0,
+        "FujiRecipe": {
+          "FilmMode": "Reala ACE",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto (ambiance priority)",
+          "WhiteBalanceFineTune": "Red -20, Blue +20",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DevelopmentDynamicRange": 400,
+          "DynamicRangeSetting": "Manual"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 48,
+        "contrast": 34,
+        "shadowRatio": 0.22,
+        "highlightRatio": 0.17
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4020",
+      "title": "DSCF4020",
+      "description": "",
+      "dateTaken": "2025-06-25T05:27:45.000Z",
+      "tags": [
+        "动物",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/动物/红山森林动物园/DSCF4020.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4020.webp",
+      "thumbHash": "9bd8091502026bb06a9867a885768a67ac6f875099",
+      "width": 2592,
+      "height": 3888,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "动物/红山森林动物园/DSCF4020.HIF",
+      "lastModified": "2025-07-11T15:42:13.622Z",
+      "size": 4230144,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T13:27:45+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 3888,
+        "ImageHeight": 2592,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/2500",
+        "FNumber": 5.6,
+        "ExposureProgram": "Manual",
+        "ISO": 800,
+        "ShutterSpeedValue": "1/2574",
+        "ApertureValue": 5.7,
+        "BrightnessValue": 8.46,
+        "ExposureCompensation": "+0.33",
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "300.0 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Manual",
+        "FocalLengthIn35mmFormat": "450 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto (ambiance priority)",
+        "WhiteBalanceFineTune": "Red -20, Blue +20",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 5.6,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/2500",
+        "LightValue": 13.3,
+        "Rating": 0,
+        "FujiRecipe": {
+          "FilmMode": "Reala ACE",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Strong",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto (ambiance priority)",
+          "WhiteBalanceFineTune": "Red -20, Blue +20",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "+2 (high)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DynamicRangeSetting": "Auto"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 47,
+        "contrast": 50,
+        "shadowRatio": 0.41,
+        "highlightRatio": 0.26
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSCF4016",
+      "title": "DSCF4016",
+      "description": "",
+      "dateTaken": "2025-06-25T05:26:55.000Z",
+      "tags": [
+        "花",
+        "红山森林动物园"
+      ],
+      "originalUrl": "https://r2.innei.ren/花/红山森林动物园/DSCF4016.HIF",
+      "thumbnailUrl": "/thumbnails/DSCF4016.webp",
+      "thumbHash": "d4a70505022756ce5706b22a975bc551979f5d06c8",
+      "width": 5152,
+      "height": 7728,
+      "aspectRatio": 0.6666666666666666,
+      "s3Key": "花/红山森林动物园/DSCF4016.HIF",
+      "lastModified": "2025-07-11T15:42:38.253Z",
+      "size": 15651328,
+      "exif": {
+        "DateTimeOriginal": "2025-06-25T13:26:55+08:00",
+        "OffsetTime": "+08:00",
+        "OffsetTimeOriginal": "+08:00",
+        "OffsetTimeDigitized": "+08:00",
+        "ImageWidth": 7728,
+        "ImageHeight": 5152,
+        "tz": "UTC+8",
+        "tzSource": "OffsetTimeOriginal",
+        "Orientation": 8,
+        "Make": "FUJIFILM",
+        "Model": "X-T5",
+        "Software": "Digital Camera X-T5 Ver4.21",
+        "Artist": "INNEI",
+        "Copyright": "",
+        "ExposureTime": "1/2500",
+        "FNumber": 5.6,
+        "ExposureProgram": "Manual",
+        "ISO": 800,
+        "ShutterSpeedValue": "1/2574",
+        "ApertureValue": 5.7,
+        "BrightnessValue": 8.34,
+        "ExposureCompensation": "+0.33",
+        "MaxApertureValue": 4,
+        "LightSource": "Unknown",
+        "Flash": "No Flash",
+        "FocalLength": "300.0 mm",
+        "ColorSpace": "sRGB",
+        "ExposureMode": "Manual",
+        "FocalLengthIn35mmFormat": "450 mm",
+        "SceneCaptureType": "Standard",
+        "LensMake": "FUJIFILM",
+        "LensModel": "XF70-300mmF4-5.6 R LM OIS WR",
+        "MeteringMode": "Center-weighted average",
+        "WhiteBalance": "Auto (ambiance priority)",
+        "WhiteBalanceFineTune": "Red -20, Blue +20",
+        "SensingMethod": "One-chip color area",
+        "FocalPlaneXResolution": 3289,
+        "FocalPlaneYResolution": 3289,
+        "Aperture": 5.6,
+        "ScaleFactor35efl": 1.5,
+        "ShutterSpeed": "1/2500",
+        "LightValue": 13.3,
+        "Rating": 0,
+        "FujiRecipe": {
+          "FilmMode": "Classic Negative",
+          "GrainEffectRoughness": "Off",
+          "GrainEffectSize": "Off",
+          "ColorChromeEffect": "Weak",
+          "ColorChromeFxBlue": "Off",
+          "WhiteBalance": "Auto (ambiance priority)",
+          "WhiteBalanceFineTune": "Red -20, Blue +20",
+          "DynamicRange": "Standard",
+          "HighlightTone": "+4 (hardest)",
+          "ShadowTone": "-2 (soft)",
+          "Saturation": "-2 (low)",
+          "Sharpness": "Normal",
+          "NoiseReduction": "0 (normal)",
+          "Clarity": 0,
+          "DynamicRangeSetting": "Auto"
+        }
+      },
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 34,
+        "contrast": 36,
+        "shadowRatio": 0.59,
+        "highlightRatio": 0.07
+      },
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3946",
@@ -1082,6 +1718,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/105",
         "LightValue": 5.7,
+        "Rating": 0,
         "GPSAltitude": 38,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.042809,
@@ -1113,7 +1750,8 @@
         "shadowRatio": 0.71,
         "highlightRatio": 0.17
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "IMG_1461",
@@ -1183,7 +1821,8 @@
       },
       "isLivePhoto": true,
       "livePhotoVideoUrl": "https://r2.innei.ren/幻/IMG_1461.mov",
-      "livePhotoVideoS3Key": "幻/IMG_1461.mov"
+      "livePhotoVideoS3Key": "幻/IMG_1461.mov",
+      "isHDR": false
     },
     {
       "id": "IMG_8186",
@@ -1236,7 +1875,8 @@
         "shadowRatio": 0.63,
         "highlightRatio": 0.21
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3902",
@@ -1298,6 +1938,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/250",
         "LightValue": 8,
+        "Rating": 0,
         "GPSAltitude": 17,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.027025,
@@ -1312,7 +1953,8 @@
         "shadowRatio": 0.63,
         "highlightRatio": 0.15
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3884",
@@ -1372,7 +2014,8 @@
         "Aperture": 4,
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/200",
-        "LightValue": 5.6
+        "LightValue": 5.6,
+        "Rating": 0
       },
       "toneAnalysis": {
         "toneType": "low-key",
@@ -1381,7 +2024,8 @@
         "shadowRatio": 0.66,
         "highlightRatio": 0.19
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3868",
@@ -1444,6 +2088,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/500",
         "LightValue": 9.6,
+        "Rating": 0,
         "GPSAltitude": 14,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.014121,
@@ -1475,7 +2120,8 @@
         "shadowRatio": 0.56,
         "highlightRatio": 0.12
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3861",
@@ -1538,6 +2184,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/640",
         "LightValue": 8.4,
+        "Rating": 0,
         "GPSAltitude": 14,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.013886,
@@ -1569,7 +2216,8 @@
         "shadowRatio": 0.59,
         "highlightRatio": 0.22
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3859",
@@ -1632,6 +2280,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/125",
         "LightValue": 6.6,
+        "Rating": 0,
         "GPSAltitude": 16,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.013375,
@@ -1663,7 +2312,8 @@
         "shadowRatio": 0.88,
         "highlightRatio": 0.04
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "IMG_1401",
@@ -1734,7 +2384,8 @@
       },
       "isLivePhoto": true,
       "livePhotoVideoUrl": "https://r2.innei.ren/人文/南京/IMG_1401.mov",
-      "livePhotoVideoS3Key": "人文/南京/IMG_1401.mov"
+      "livePhotoVideoS3Key": "人文/南京/IMG_1401.mov",
+      "isHDR": false
     },
     {
       "id": "DSCF3852",
@@ -1797,6 +2448,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/200",
         "LightValue": 7,
+        "Rating": 0,
         "GPSAltitude": 17,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.013235,
@@ -1828,7 +2480,8 @@
         "shadowRatio": 0.62,
         "highlightRatio": 0.05
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3838",
@@ -1890,6 +2543,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/80",
         "LightValue": 5.7,
+        "Rating": 0,
         "GPSAltitude": 23,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.014718,
@@ -1921,7 +2575,8 @@
         "shadowRatio": 0.98,
         "highlightRatio": 0
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3837",
@@ -1984,6 +2639,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/100",
         "LightValue": 6,
+        "Rating": 0,
         "GPSAltitude": 20,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.014969,
@@ -2015,7 +2671,8 @@
         "shadowRatio": 0.73,
         "highlightRatio": 0.08
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3819",
@@ -2077,6 +2734,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/2000",
         "LightValue": 6.9,
+        "Rating": 0,
         "GPSAltitude": 18,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.074772,
@@ -2110,7 +2768,8 @@
         "shadowRatio": 0.57,
         "highlightRatio": 0.03
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3768",
@@ -2172,6 +2831,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/400",
         "LightValue": 10,
+        "Rating": 0,
         "GPSAltitude": 20,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 32.1141,
@@ -2186,7 +2846,8 @@
         "shadowRatio": 0.16,
         "highlightRatio": 0.34
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3756",
@@ -2247,7 +2908,8 @@
         "Aperture": 3.2,
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/400",
-        "LightValue": 11.7
+        "LightValue": 11.7,
+        "Rating": 0
       },
       "toneAnalysis": {
         "toneType": "normal",
@@ -2256,7 +2918,8 @@
         "shadowRatio": 0.34,
         "highlightRatio": 0.44
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3755",
@@ -2317,7 +2980,8 @@
         "Aperture": 5.6,
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/125",
-        "LightValue": 11.6
+        "LightValue": 11.6,
+        "Rating": 0
       },
       "toneAnalysis": {
         "toneType": "normal",
@@ -2326,7 +2990,8 @@
         "shadowRatio": 0.52,
         "highlightRatio": 0.37
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3506",
@@ -2388,6 +3053,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/250",
         "LightValue": 5.6,
+        "Rating": 0,
         "GPSAltitude": 7,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.763891,
@@ -2421,7 +3087,8 @@
         "shadowRatio": 0.34,
         "highlightRatio": 0.16
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3449",
@@ -2484,6 +3151,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/80",
         "LightValue": 5.7,
+        "Rating": 0,
         "GPSAltitude": 7,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.773095,
@@ -2516,7 +3184,8 @@
         "shadowRatio": 0.2,
         "highlightRatio": 0.17
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3447",
@@ -2579,6 +3248,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/80",
         "LightValue": 6,
+        "Rating": 0,
         "GPSAltitude": 7,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.773077,
@@ -2611,7 +3281,8 @@
         "shadowRatio": 0.11,
         "highlightRatio": 0.22
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3443",
@@ -2672,6 +3343,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/200",
         "LightValue": 10.3,
+        "Rating": 0,
         "GPSAltitude": 2,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.763019,
@@ -2686,7 +3358,8 @@
         "shadowRatio": 0.23,
         "highlightRatio": 0.2
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3439",
@@ -2756,7 +3429,8 @@
         "shadowRatio": 0.49,
         "highlightRatio": 0.26
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "PhotonCam_FJ6_20250602",
@@ -2824,7 +3498,8 @@
         "shadowRatio": 0.39,
         "highlightRatio": 0.25
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3425",
@@ -2886,6 +3561,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/100",
         "LightValue": 5.3,
+        "Rating": 0,
         "GPSAltitude": 8,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.762884,
@@ -2919,7 +3595,8 @@
         "shadowRatio": 0.17,
         "highlightRatio": 0.29
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3423",
@@ -2981,6 +3658,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/100",
         "LightValue": 5.3,
+        "Rating": 0,
         "GPSAltitude": 10,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.762915,
@@ -3014,7 +3692,8 @@
         "shadowRatio": 0.73,
         "highlightRatio": 0.06
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3419",
@@ -3076,6 +3755,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/100",
         "LightValue": 5.3,
+        "Rating": 0,
         "GPSAltitude": 8,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.762952,
@@ -3109,7 +3789,8 @@
         "shadowRatio": 0.3,
         "highlightRatio": 0.22
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3408",
@@ -3171,6 +3852,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/2500",
         "LightValue": 11.9,
+        "Rating": 0,
         "GPSAltitude": 7,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.76158,
@@ -3203,7 +3885,8 @@
         "shadowRatio": 0.68,
         "highlightRatio": 0.15
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3362",
@@ -3265,6 +3948,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/160",
         "LightValue": 9,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "F0/Standard (Provia)",
           "GrainEffectRoughness": "Off",
@@ -3292,7 +3976,8 @@
         "shadowRatio": 0.16,
         "highlightRatio": 0.39
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3355",
@@ -3354,6 +4039,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/100",
         "LightValue": 9.3,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "F0/Standard (Provia)",
           "GrainEffectRoughness": "Off",
@@ -3381,7 +4067,8 @@
         "shadowRatio": 0.37,
         "highlightRatio": 0.29
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "IMG_1190",
@@ -3449,7 +4136,8 @@
         "shadowRatio": 0.26,
         "highlightRatio": 0.46
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3334",
@@ -3511,6 +4199,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/160",
         "LightValue": 8,
+        "Rating": 0,
         "GPSAltitude": 7,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.574898,
@@ -3544,7 +4233,8 @@
         "shadowRatio": 0.23,
         "highlightRatio": 0.27
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3333",
@@ -3606,6 +4296,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/160",
         "LightValue": 8,
+        "Rating": 0,
         "GPSAltitude": 7,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.574898,
@@ -3639,7 +4330,8 @@
         "shadowRatio": 0.24,
         "highlightRatio": 0.27
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3330",
@@ -3701,6 +4393,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/400",
         "LightValue": 9.3,
+        "Rating": 0,
         "GPSAltitude": 2,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.57495,
@@ -3734,7 +4427,8 @@
         "shadowRatio": 0.36,
         "highlightRatio": 0.16
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3328",
@@ -3796,6 +4490,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/800",
         "LightValue": 12,
+        "Rating": 0,
         "GPSAltitude": 14,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.549471,
@@ -3829,7 +4524,8 @@
         "shadowRatio": 0.09,
         "highlightRatio": 0.47
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3314",
@@ -3891,6 +4587,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/6400",
         "LightValue": 13.3,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Classic Chrome",
           "GrainEffectRoughness": "Off",
@@ -3918,7 +4615,8 @@
         "shadowRatio": 0.32,
         "highlightRatio": 0.22
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3303",
@@ -3980,6 +4678,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/80",
         "LightValue": 4.7,
+        "Rating": 0,
         "GPSAltitude": 6,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.760493,
@@ -4013,7 +4712,8 @@
         "shadowRatio": 0.79,
         "highlightRatio": 0.04
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3296",
@@ -4069,6 +4769,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": 0.5,
         "LightValue": 1.4,
+        "Rating": 0,
         "GPSAltitude": 6,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.760493,
@@ -4083,7 +4784,8 @@
         "shadowRatio": 0.6,
         "highlightRatio": 0.03
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3264",
@@ -4139,6 +4841,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/320",
         "LightValue": 5,
+        "Rating": 0,
         "GPSAltitude": 6,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.760493,
@@ -4153,7 +4856,8 @@
         "shadowRatio": 0.54,
         "highlightRatio": 0.08
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "IMG_1145",
@@ -4224,7 +4928,8 @@
       },
       "isLivePhoto": true,
       "livePhotoVideoUrl": "https://r2.innei.ren/人文/iPhone/IMG_1145.mov",
-      "livePhotoVideoS3Key": "人文/iPhone/IMG_1145.mov"
+      "livePhotoVideoS3Key": "人文/iPhone/IMG_1145.mov",
+      "isHDR": false
     },
     {
       "id": "DSCF3223",
@@ -4286,6 +4991,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/800",
         "LightValue": 10.3,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Classic Chrome",
           "GrainEffectRoughness": "Off",
@@ -4313,7 +5019,8 @@
         "shadowRatio": 0.27,
         "highlightRatio": 0.28
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3215",
@@ -4375,6 +5082,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/800",
         "LightValue": 10.3,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Reala ACE",
           "GrainEffectRoughness": "Off",
@@ -4401,7 +5109,8 @@
         "shadowRatio": 0.42,
         "highlightRatio": 0.1
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3174B",
@@ -4467,7 +5176,8 @@
         "shadowRatio": 0.02,
         "highlightRatio": 0.51
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3167",
@@ -4531,7 +5241,8 @@
         "shadowRatio": 0,
         "highlightRatio": 0.95
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3154",
@@ -4593,6 +5304,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/5000",
         "LightValue": 10.9,
+        "Rating": 0,
         "FujiRecipe": {
           "FilmMode": "Classic Negative",
           "GrainEffectRoughness": "Off",
@@ -4617,7 +5329,8 @@
         "shadowRatio": 0.08,
         "highlightRatio": 0.57
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3138",
@@ -4681,7 +5394,8 @@
         "shadowRatio": 0.25,
         "highlightRatio": 0.21
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3119",
@@ -4745,7 +5459,8 @@
         "shadowRatio": 0.46,
         "highlightRatio": 0.2
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3117",
@@ -4809,7 +5524,8 @@
         "shadowRatio": 0.53,
         "highlightRatio": 0.16
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3116",
@@ -4873,7 +5589,8 @@
         "shadowRatio": 0.13,
         "highlightRatio": 0.36
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3091",
@@ -4943,7 +5660,8 @@
         "shadowRatio": 0.19,
         "highlightRatio": 0.43
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3029",
@@ -5013,7 +5731,8 @@
         "shadowRatio": 0.55,
         "highlightRatio": 0.11
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF3002",
@@ -5083,7 +5802,8 @@
         "shadowRatio": 0.45,
         "highlightRatio": 0.21
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF2894",
@@ -5153,7 +5873,8 @@
         "shadowRatio": 0.27,
         "highlightRatio": 0.1
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF2873",
@@ -5223,7 +5944,8 @@
         "shadowRatio": 0.17,
         "highlightRatio": 0.27
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF2853",
@@ -5287,7 +6009,8 @@
         "shadowRatio": 0.24,
         "highlightRatio": 0.25
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF2851",
@@ -5351,7 +6074,8 @@
         "shadowRatio": 0.22,
         "highlightRatio": 0.19
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF2850",
@@ -5415,7 +6139,8 @@
         "shadowRatio": 0.14,
         "highlightRatio": 0.43
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF2848",
@@ -5479,7 +6204,8 @@
         "shadowRatio": 0.41,
         "highlightRatio": 0.14
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0420",
@@ -5549,7 +6275,8 @@
         "shadowRatio": 0.4,
         "highlightRatio": 0.36
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0419",
@@ -5619,7 +6346,8 @@
         "shadowRatio": 0.43,
         "highlightRatio": 0.2
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0414",
@@ -5681,6 +6409,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/2000",
         "LightValue": 11,
+        "Rating": 0,
         "GPSAltitude": 65,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.763249,
@@ -5713,7 +6442,8 @@
         "shadowRatio": 0.52,
         "highlightRatio": 0.11
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0379",
@@ -5774,6 +6504,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/58",
         "LightValue": 5.9,
+        "Rating": 0,
         "GPSAltitude": 19,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.164828,
@@ -5788,7 +6519,8 @@
         "shadowRatio": 0.73,
         "highlightRatio": 0.04
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0378",
@@ -5858,7 +6590,8 @@
         "shadowRatio": 0.54,
         "highlightRatio": 0.23
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0374",
@@ -5919,6 +6652,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/900",
         "LightValue": 12.5,
+        "Rating": 0,
         "GPSAltitude": 6,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.162058,
@@ -5933,7 +6667,8 @@
         "shadowRatio": 0.37,
         "highlightRatio": 0.2
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0372",
@@ -5994,6 +6729,7 @@
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/2900",
         "LightValue": 13.5,
+        "Rating": 0,
         "GPSAltitude": 0,
         "GPSAltitudeRef": "Above Sea Level",
         "GPSLatitude": 30.162472,
@@ -6008,7 +6744,8 @@
         "shadowRatio": 0.27,
         "highlightRatio": 0.48
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0324B",
@@ -6068,7 +6805,8 @@
         "Aperture": 4,
         "ScaleFactor35efl": 1.5,
         "ShutterSpeed": "1/480",
-        "LightValue": 9.9
+        "LightValue": 9.9,
+        "Rating": 0
       },
       "toneAnalysis": {
         "toneType": "normal",
@@ -6077,7 +6815,8 @@
         "shadowRatio": 0.58,
         "highlightRatio": 0.06
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0074",
@@ -6147,7 +6886,8 @@
         "shadowRatio": 0.28,
         "highlightRatio": 0.07
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "DSCF0071",
@@ -6217,7 +6957,8 @@
         "shadowRatio": 0.75,
         "highlightRatio": 0.18
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
     },
     {
       "id": "IMG_5484",
@@ -6288,7 +7029,8 @@
       },
       "isLivePhoto": true,
       "livePhotoVideoUrl": "https://r2.innei.ren/风光/iPhone/IMG_5484.mov",
-      "livePhotoVideoS3Key": "风光/iPhone/IMG_5484.mov"
+      "livePhotoVideoS3Key": "风光/iPhone/IMG_5484.mov",
+      "isHDR": false
     },
     {
       "id": "IMG_5469",
@@ -6359,7 +7101,8 @@
       },
       "isLivePhoto": true,
       "livePhotoVideoUrl": "https://r2.innei.ren/风光/iPhone/IMG_5469.mov",
-      "livePhotoVideoS3Key": "风光/iPhone/IMG_5469.mov"
+      "livePhotoVideoS3Key": "风光/iPhone/IMG_5469.mov",
+      "isHDR": false
     },
     {
       "id": "IMG_5441",
@@ -6420,7 +7163,8 @@
         "GPSLatitude": 26.875422,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 100.233833,
-        "GPSLongitudeRef": "E"
+        "GPSLongitudeRef": "E",
+        "MPImageType": "Undefined"
       },
       "toneAnalysis": {
         "toneType": "normal",
@@ -6429,7 +7173,77 @@
         "shadowRatio": 0.46,
         "highlightRatio": 0.12
       },
-      "isLivePhoto": false
+      "isLivePhoto": false,
+      "isHDR": false
+    }
+  ],
+  "cameras": [
+    {
+      "make": "Apple",
+      "model": "iPhone 14 Pro",
+      "displayName": "Apple iPhone 14 Pro"
+    },
+    {
+      "make": "Apple",
+      "model": "iPhone 15",
+      "displayName": "Apple iPhone 15"
+    },
+    {
+      "make": "Apple",
+      "model": "iPhone 16",
+      "displayName": "Apple iPhone 16"
+    },
+    {
+      "make": "FUJIFILM",
+      "model": "X-T5",
+      "displayName": "FUJIFILM X-T5"
+    },
+    {
+      "make": "Hasselblad",
+      "model": "X2D 100C",
+      "displayName": "Hasselblad X2D 100C"
+    }
+  ],
+  "lenses": [
+    {
+      "make": "Apple",
+      "model": "iPhone 14 Pro back dual wide camera 6.86mm f/1.78",
+      "displayName": "Apple iPhone 14 Pro back dual wide camera 6.86mm f/1.78"
+    },
+    {
+      "make": "Apple",
+      "model": "iPhone 15 back dual wide camera 5.96mm f/1.6",
+      "displayName": "Apple iPhone 15 back dual wide camera 5.96mm f/1.6"
+    },
+    {
+      "make": "Apple",
+      "model": "iPhone 16 back dual wide camera 5.96mm f/1.6",
+      "displayName": "Apple iPhone 16 back dual wide camera 5.96mm f/1.6"
+    },
+    {
+      "make": "BS-Optics",
+      "model": "BS-Optics FX 50mm F1.4",
+      "displayName": "BS-Optics BS-Optics FX 50mm F1.4"
+    },
+    {
+      "make": "FUJIFILM",
+      "model": "Fujifilm Fujinon XF70-300mmF4-5.6 R LM OIS WR",
+      "displayName": "FUJIFILM Fujifilm Fujinon XF70-300mmF4-5.6 R LM OIS WR"
+    },
+    {
+      "make": "FUJIFILM",
+      "model": "XC35mmF2",
+      "displayName": "FUJIFILM XC35mmF2"
+    },
+    {
+      "make": "FUJIFILM",
+      "model": "XF70-300mmF4-5.6 R LM OIS WR",
+      "displayName": "FUJIFILM XF70-300mmF4-5.6 R LM OIS WR"
+    },
+    {
+      "make": "TTARTISAN",
+      "model": "AF 27/2.8",
+      "displayName": "TTARTISAN AF 27/2.8"
     }
   ]
 }
