@@ -662,25 +662,25 @@
       "tags": [
         "新加坡"
       ],
-      "originalUrl": "https://r2.innei.ren/新加坡/IMG_1888.HEIC",
+      "originalUrl": "https://r2.innei.ren/新加坡/IMG_1888.jpeg",
       "thumbnailUrl": "/thumbnails/IMG_1888.jpg",
       "thumbHash": "20f809050008798f7878a8b76882a7686a709990f7",
       "width": 4284,
       "height": 5712,
       "aspectRatio": 0.75,
-      "s3Key": "新加坡/IMG_1888.HEIC",
-      "lastModified": "2025-10-13T16:56:08.725Z",
-      "size": 4436457,
+      "s3Key": "新加坡/IMG_1888.jpeg",
+      "lastModified": "2025-10-13T17:24:18.797Z",
+      "size": 7199528,
       "exif": {
         "DateTimeOriginal": "2025-10-11T17:32:42+08:00",
         "OffsetTime": "+08:00",
         "OffsetTimeOriginal": "+08:00",
         "OffsetTimeDigitized": "+08:00",
-        "ImageWidth": 5712,
-        "ImageHeight": 4284,
+        "ImageWidth": 4284,
+        "ImageHeight": 5712,
         "tz": "UTC+8",
         "tzSource": "OffsetTimeOriginal",
-        "Orientation": 6,
+        "Orientation": 1,
         "Make": "Apple",
         "Model": "iPhone 16",
         "Software": "26.0.1",
@@ -697,6 +697,7 @@
         "ColorSpace": "Uncalibrated",
         "ExposureMode": "Auto",
         "FocalLengthIn35mmFormat": "26 mm",
+        "SceneCaptureType": "Standard",
         "LensMake": "Apple",
         "LensModel": "iPhone 16 back dual wide camera 5.96mm f/1.6",
         "MeteringMode": "Multi-segment",
@@ -711,18 +712,17 @@
         "GPSLatitude": 1.360875,
         "GPSLatitudeRef": "N",
         "GPSLongitude": 103.990067,
-        "GPSLongitudeRef": "E"
+        "GPSLongitudeRef": "E",
+        "MPImageType": "Undefined"
       },
       "toneAnalysis": {
         "toneType": "normal",
-        "brightness": 50,
-        "contrast": 40,
-        "shadowRatio": 0.25,
-        "highlightRatio": 0.25
+        "brightness": 62,
+        "contrast": 37,
+        "shadowRatio": 0.09,
+        "highlightRatio": 0.51
       },
-      "isLivePhoto": true,
-      "livePhotoVideoUrl": "https://r2.innei.ren/新加坡/IMG_1888.mov",
-      "livePhotoVideoS3Key": "新加坡/IMG_1888.mov",
+      "isLivePhoto": false,
       "isHDR": false
     },
     {
